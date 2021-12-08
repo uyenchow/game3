@@ -44,8 +44,9 @@ h2 {
   align-items: center;
   justify-content: space-between;
   min-height: 550px;
+  max-width:95%;
   margin: 0 auto;
-  padding-left: 20px;
+  padding: 20px;
 }
 
 li {
